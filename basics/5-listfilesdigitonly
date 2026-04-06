@@ -1,4 +1,2 @@
 #!/bin/bash
-ls -1
-ls -n
-ls la
+ls -1/ls -n/ls la

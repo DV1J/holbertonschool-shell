@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1 /etc /bin
+ls -1 /etc /basics
